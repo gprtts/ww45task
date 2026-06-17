@@ -1,0 +1,15 @@
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\bin\Debug\net10.0\TaskSquaresApp.exe
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\bin\Debug\net10.0\TaskSquaresApp.deps.json
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\bin\Debug\net10.0\TaskSquaresApp.runtimeconfig.json
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\bin\Debug\net10.0\TaskSquaresApp.dll
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\bin\Debug\net10.0\TaskSquaresApp.pdb
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.AssemblyInfoInputs.cache
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.AssemblyInfo.cs
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.csproj.CoreCompileInputs.cache
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.sourcelink.json
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.dll
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\refint\TaskSquaresApp.dll
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.pdb
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\TaskSquaresApp.genruntimeconfig.cache
+E:\TaskSquaresSolution\ww45task\TaskSquaresApp\obj\Debug\net10.0\ref\TaskSquaresApp.dll
