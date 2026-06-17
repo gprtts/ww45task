@@ -6,6 +6,7 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Запуск программы...");
         int[] numbers = { 1, 2, 3, 4, 5 };
 
         int totalSum = 0;
